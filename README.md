@@ -1,2 +1,2 @@
 # Matrix Class in Python
-A naive matrix class built python
+A naive matrix class built in python.
